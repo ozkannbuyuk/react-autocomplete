@@ -2,6 +2,10 @@
    React - Autocomplete
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-autocomplete/assets/111967202/c88ccf26-5b2f-4605-a025-219b0b35a7cb" width="700" />
 </p>
